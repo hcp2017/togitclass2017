@@ -3,4 +3,4 @@ attending git class
 
 repos produced in ipgp git class.
 
-![fun](https://cdn.meme.am/instances/55691119.jpg)
+![fun](https://informatix.ipgp.fr/webmail/skins/ipgp/images/ipgp_biglogo.png)
